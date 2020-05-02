@@ -7,4 +7,10 @@ There are several Jupyter notebooks available in this repository:
   - Contains a the first analysis used with a univariate autoregressive model for predicting grid operation. The prediction is combined with a p = 0.05 hypothesis test to determine if an observed signal is anomalous. 
   - The data for this notebook can be found [here](https://drive.google.com/open?id=1TrCfPnLnR_jvMMvg2MUJNI27_QwoY6ql).
   
-- 'RT-L
+- 'RTLabAnomalyDetection.ipynb'
+  - This notebook contains updates to `Bayesian Anomaly Detection.ipynb`
+  - It is updated to work with Google Colab
+  - For the Google Drive integration, the data needs to be placed in the 'My Drive' Directory of Google Drive.
+  - Data for this notebook can be found [here](https://drive.google.com/drive/folders/1LYQTkiCzn7PQoBX44am3L9R7KpXT2wUy?usp=sharing)
+  
+- `
