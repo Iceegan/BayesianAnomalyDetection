@@ -10,7 +10,10 @@ There are several Jupyter notebooks available in this repository:
 - 'RTLabAnomalyDetection.ipynb'
   - This notebook contains updates to `Bayesian Anomaly Detection.ipynb`
   - It is updated to work with Google Colab
+  - This notebook was made for a set of data generated using a system in RT-Lab.
   - For the Google Drive integration, the data needs to be placed in the 'My Drive' Directory of Google Drive.
   - Data for this notebook can be found [here](https://drive.google.com/drive/folders/1LYQTkiCzn7PQoBX44am3L9R7KpXT2wUy?usp=sharing)
   
-- `
+- `ZoneNData_Overview.ipynb`
+  - This notebook does some simple plotting of the data from RTLab.
+
